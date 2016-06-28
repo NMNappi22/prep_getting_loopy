@@ -24,3 +24,33 @@ var result = makeStringOfNumbers();
 console.log("Value is: " + result);
 */
 
+/**
+function makeEvenNumberArray (){
+	var evenNumberArray = [];
+	for(i = 0; i <= 50; i+=2){
+		evenNumberArray = evenNumberArray + i;
+	}
+	return evenNumberArray;
+}
+	var result = makeEvenNumberArray();
+	console.log(result);
+*/
+
+function theOopsArray(){
+	var oopsArray = [ 'turn' , , 'down' , , 'for' , , 'what' ];
+	for(i = 1; oopsArray.length < 6; i+=2){
+		console.log 
+	}
+	oopsArray.splice(i, 1, "nope")
+}
+
+
+
+
+
+
+
+
+
+
+
